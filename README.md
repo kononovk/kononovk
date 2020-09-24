@@ -21,13 +21,6 @@ No commercial development experience at the moment.
   
 My small repository with [algorithms and data structures](https://github.com/kononovk/Algorithms-and-Data-structures)
   
-+ My main projects: 
-  - [Ingoly - simple INLY go-based interpreter](https://github.com/qnbhd/ingoly)
-  - [Loripy - python templating language](https://github.com/qnbhd/loripy)
-  - [QnGraph - sdl2-based graph-plotter](https://github.com/qnbhd/qn-graph)
-  - [PyGo - python go-subset compiler](https://github.com/qnbhd/pygo)
- 
-***
 
 **Hard-skills**:
 
