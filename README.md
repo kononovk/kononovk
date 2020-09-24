@@ -27,7 +27,6 @@ My small repository with [algorithms and data structures](https://github.com/kon
 - Web-site parsing (re, beautifulsoup)
 - Linux, bash
 - Working with external API
-- Gunicorn
 - Git
 - SQL
 - Linux
