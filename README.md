@@ -19,7 +19,9 @@ No commercial development experience at the moment.
   - Algorithms & Data structures
   - C++, Python, Haskell
   
+<!---
 My small repository with [algorithms and data structures](https://github.com/kononovk/Algorithms-and-Data-structures)
+-->
   
 
 **Hard-skills**:
