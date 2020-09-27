@@ -15,10 +15,10 @@ No commercial development experience at the moment.
 **My activities**:
 
 + I'm currently learning Computer Science
-  - Mathematics (Calculus, Linear Algebra, Differential Equations, Probability Theory, Graph Theory)
+  - Mathematics (Calculus, Linear Algebra, Differential Equations, Probability Theory, Graph Theory, Combinatorics)
   - Algorithms & Data structures
-  - C++, Python, Haskell
-  
+  - C++, Python (Haskell, Java, Go, Bash a little)
+  - 
 <!---
 My small repository with [algorithms and data structures](https://github.com/kononovk/Algorithms-and-Data-structures)
 -->
@@ -32,4 +32,4 @@ My small repository with [algorithms and data structures](https://github.com/kon
 - Git
 - SQL
 - Linux
-- Numpy, Scipy, Matplotlib, Plotly, Pandas
+- Numpy, Scipy, Matplotlib, Plotly, Pandas, Flask, Telebot
