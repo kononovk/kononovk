@@ -18,7 +18,6 @@ No commercial development experience at the moment.
   - Mathematics (Calculus, Linear Algebra, Differential Equations, Probability Theory, Graph Theory, Combinatorics)
   - Algorithms & Data structures
   - C++, Python (Haskell, Java, Go, Bash a little)
-  - 
 <!---
 My small repository with [algorithms and data structures](https://github.com/kononovk/Algorithms-and-Data-structures)
 -->
