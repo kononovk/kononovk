@@ -8,8 +8,6 @@ My name is Nickolay.
 
 I am currently living in Saint Petersburg and studying at Saint-Petersburg State University (Mathematics and Computer Science) and in [Computer Science Center](https://compscicenter.ru/).
 
-No commercial development experience at the moment.
-
 ***
 
 **My activities**:
