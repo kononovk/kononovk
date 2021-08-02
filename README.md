@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-<a href="https://t.me/kononovnikolay"><img height=32 width=32 src="https://telegrapher.ru/images/download/icons/telegram.svg" /></a>
+ 
+<a href="https://t.me/kononovnikolay"><img height=32 width=32 src="https://telegrapher.ru/images/download/icons/telegram.svg" /></a> 
 <a href="https://vk.com/kkononov99"><img height=32 width=32 src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
+
+- LinkedIn: <a href=https://www.linkedin.com/in/nickolay-kononov-774970195/> @kononovk </a>
 
 My name is Nickolay.
 
