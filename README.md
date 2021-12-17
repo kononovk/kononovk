@@ -36,4 +36,6 @@ My small repository with [algorithms and data structures](https://github.com/kon
 - SQL
 - Linux
 - Numpy, Scipy, Matplotlib, Plotly, Pandas, Flask, Telebot
+- OS development and Computer Architecture
+- Concurrency and parallel programming
 -->
